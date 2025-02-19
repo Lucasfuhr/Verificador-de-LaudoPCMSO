@@ -1,0 +1,1 @@
+App em Python que analisa documentos PDFs PCMSO, verificando os itens obrigatórios e gera um relatório em Excel, com uma interface gráfica simples para facilitar o processo. Funcionalidades: Leitura e análise de arquivos PDF. Geração de relatório em Excel. Interface gráfica intuitiva. Tecnologias: Python, PyMuPDF, Pandas, Tkinter.
